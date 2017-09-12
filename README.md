@@ -2,6 +2,7 @@
 A mobile app for foster parents to keep track of documentation.
 
 [Demo recording](https://www.youtube.com/watch?v=AnneBSXX4hc)
+[Architecture](https://github.com/lukitos/fosterBuddy/blob/master/architecture.png)
 
 fosterBuddy is foster parents' best friend. It helps them stay organized anywhere anytime with a mobile app. Keeping good documentation is very important for foster parents and it can be time consuming. A lot of them are still using papers to keep track of documentation and it can get out of hands very quickly. The goal of fosterBuddy is to help foster parents manage documentation more efficiently.
 
@@ -18,8 +19,6 @@ fosterBuddy is foster parents' best friend. It helps them stay organized anywher
 * Technologies
     * Front-end: React Native, Redux
     * Back-end: Node.js, Firebase, PostgreSQL
-    
-[Architecture]()
 
 * Feature list
     * Authentication
