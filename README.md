@@ -1,6 +1,8 @@
 # fosterBuddy
 A mobile app for foster parents to keep track of documentation.
 
+[video](https://www.youtube.com/watch?v=AnneBSXX4hc)
+
 fosterBuddy is foster parents' best friend. It helps them stay organized anywhere anytime with a mobile app. Keeping good documentation is very important for foster parents and it can be time consuming. A lot of them are still using papers to keep track of documentation and it can get out of hands very quickly. The goal of fosterBuddy is to help foster parents manage documentation more efficiently.
 
 * Who uses fosterBuddy?
@@ -19,11 +21,11 @@ fosterBuddy is foster parents' best friend. It helps them stay organized anywher
     * Back-end: Node.js/Express
 
 * Feature list
+    * Authentication
     * Incident report
     * Foster child's profile
 
 * Stretch goals
-    * Authentication
     * SMS for appointment reminders
     * Task management module (ability to create and view to do list)
     * Additional features
