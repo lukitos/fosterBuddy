@@ -37,6 +37,7 @@ fosterBuddy is foster parents' best friend. It helps them stay organized anywher
 * Ability to take pictures and save it as part of the tracking
 * SMS for appointment reminders
 * Task management module (ability to create and view to do list)
+* Maintain multiple profiles for foster children
 * Additional features
   * Appointment (doctor, case manager, licensing worker)
   * Medication Log
