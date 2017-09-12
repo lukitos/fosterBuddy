@@ -29,9 +29,9 @@ fosterBuddy is foster parents' best friend. It helps them stay organized anywher
     * I am the sole developer for this project
 
 ### Feature list
-    * Authentication
-    * Incident report
-    * Foster child's profile
+* Authentication
+* Incident report
+* Foster child's profile
 
 ### Future enhancements
 * Ability to take pictures and save it as part of the tracking
