@@ -1,10 +1,10 @@
 # fosterBuddy
 A mobile app for foster parents to keep track of documentation.
 
-### Links
-   * [Demo recording](https://youtu.be/mC0os1eOcM8)
-   * [Architecture](https://github.com/lukitos/fosterBuddy/blob/master/architecture.png)
+### Architecture
    
+[![fosterBuddy](https://github.com/lukitos/fosterBuddy/blob/master/architecture.png)](https://github.com/lukitos/fosterBuddy/blob/master/architecture.png)
+
 [![fosterBuddy](https://github.com/lukitos/fosterBuddy/blob/master/fosterBuddy.png)](https://youtu.be/mC0os1eOcM8)
 
 ### About the project
