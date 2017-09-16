@@ -7,6 +7,10 @@ A mobile app for foster parents to keep track of documentation.
 
 ### About the project
 fosterBuddy is foster parents' best friend. It helps them stay organized anywhere anytime with a mobile app. Keeping good documentation is very important for foster parents and it can be time consuming. A lot of them are still using papers to keep track of documentation and it can get out of hands very quickly. The goal of fosterBuddy is to help foster parents manage documentation more efficiently.
+
+* How this project is built
+    * Front-end: React Native, Redux
+    * Back-end: Node.js, Firebase, PostgreSQL
    
 [![fosterBuddy](https://github.com/lukitos/fosterBuddy/blob/master/architecture.png)](https://github.com/lukitos/fosterBuddy/blob/master/architecture.png)
 
@@ -19,10 +23,6 @@ fosterBuddy is foster parents' best friend. It helps them stay organized anywher
 
 * What inputs are needed to generate those outputs?
     * Data entry via forms for things they track and foster children's profiles
-
-* How this project is built
-    * Front-end: React Native, Redux
-    * Back-end: Node.js, Firebase, PostgreSQL
     
 * Time constraints:
     * This project has to be completed in less than a week
