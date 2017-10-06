@@ -1,4 +1,4 @@
-# fosterBuddy
+# foster Buddy
 A mobile app for foster parents to keep track of documentation.
 
 ### Demo recording
