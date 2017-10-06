@@ -1,4 +1,4 @@
-# foster Buddy
+# Foster Buddy
 A mobile app for foster parents to keep track of documentation.
 
 ### Demo recording
@@ -6,7 +6,7 @@ A mobile app for foster parents to keep track of documentation.
 [![fosterBuddy](https://github.com/lukitos/fosterBuddy/blob/master/fosterBuddy.png)](https://youtu.be/mC0os1eOcM8)
 
 ### About the project
-fosterBuddy is foster parents' best friend. It helps them stay organized anywhere anytime with a mobile app. Keeping good documentation is very important for foster parents and it can be time consuming. A lot of them are still using papers to keep track of documentation and it can get out of hands very quickly. The goal of fosterBuddy is to help foster parents manage documentation more efficiently.
+Foster Buddy is foster parents' best friend. It helps them stay organized anywhere anytime with a mobile app. Keeping good documentation is very important for foster parents and it can be time consuming. A lot of them are still using papers to keep track of documentation and it can get out of hands very quickly. The goal of Foster Buddy is to help foster parents manage documentation more efficiently.
 
 * How this project is built
     * Front-end: React Native, Redux
@@ -14,7 +14,7 @@ fosterBuddy is foster parents' best friend. It helps them stay organized anywher
    
 [![fosterBuddy](https://github.com/lukitos/fosterBuddy/blob/master/architecture.png)](https://github.com/lukitos/fosterBuddy/blob/master/architecture.png)
 
-* Who uses fosterBuddy?
+* Who uses Foster Buddy?
     * Foster parents
 
 * What outputs do they need?
